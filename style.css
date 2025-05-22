@@ -1,0 +1,47 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f4f4;
+    padding: 30px;
+}
+
+form {
+    background: #05f0f4;
+    padding: 20px;
+    width: 300px;
+    margin: auto;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+h2 {
+    text-align: center;
+    color: #ea3d04;
+}
+
+label {
+    display: block;
+    margin-top: 10px;
+}
+
+input, select, button {
+    width: 100%;
+    padding: 8px;
+    margin-top: 5px;
+    box-sizing: border-box;
+}
+
+button {
+    background-color: #7d8105;
+    color: white;
+    border: none;
+    margin-top: 15px;
+    cursor: pointer;
+    border-radius: 5px;
+}
+
+#confirmation {
+    margin-top: 15px;
+    color: green;
+    font-weight: bold;
+    text-align: center;
+}
